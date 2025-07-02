@@ -7,7 +7,7 @@ This is a partial Rojo project boilerplate for Roblox development, designed to h
 
 ### 1️⃣ Prerequisite: Aftman
 
-You need [Aftman]([https://github.com/LPGhatguy/aftman]) installed and available in your PATH to use this project.
+You need [Aftman](https://github.com/LPGhatguy/aftman) installed and available in your PATH to use this project.
 
 ### 2️⃣ Install Tools and Dependencies
 
