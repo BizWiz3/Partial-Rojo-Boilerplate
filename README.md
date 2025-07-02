@@ -1,13 +1,13 @@
 
 # Partial-Rojo-Boilerplate
 
-This is a partial Rojo project boilerplate for Roblox development, designed to help you quickly set up a managed workflow with [Rojo](https://github.com/rojo-rbx/rojo), [Wally](https://wally.run/), and [Aftman](https://sleitnick.github.io/Aftman/).
+This is a partial Rojo project boilerplate for Roblox development, designed to help you quickly set up a managed workflow with [Rojo](https://github.com/rojo-rbx/rojo), [Wally](https://wally.run/), and [Aftman](https://github.com/LPGhatguy/aftman).
 
 ## Usage & Setup
 
 ### 1️⃣ Prerequisite: Aftman
 
-You need [Aftman](https://sleitnick.github.io/Aftman/) installed and available in your PATH to use this project.
+You need [Aftman]([https://github.com/LPGhatguy/aftman]) installed and available in your PATH to use this project.
 
 ### 2️⃣ Install Tools and Dependencies
 
